@@ -10,8 +10,12 @@ pip install --upgrade --quiet  langchain-google-genai pillow
 
 Before you run the bot, you must fill out your "google api key" to the panel of bot config.
 
-# Use
-Use !gemini or !gi commond to start a chat
+## Usage
+Basic commands:
+
+* `!gemini <content>` - Start a chat with gemini.
+
+  You can also use !gi as alias ~~~~~~
 
 ## Copyrights
 MIT License.
