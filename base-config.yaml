@@ -1,0 +1,5 @@
+# Who is allowed to use the bot? format - "@user:example.com"
+whitelist:
+# The prefix for the main command without the !
+command_prefix: hello-world
+google_api_key: 
